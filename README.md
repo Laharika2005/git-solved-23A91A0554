@@ -49,3 +49,4 @@ The project is actively maintained with both **stable production features** and 
 git clone https://github.com/your-username/git-solved-YOURID.git
 cd git-solved-YOURID
 
+## FAQ
